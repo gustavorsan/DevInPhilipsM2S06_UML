@@ -1,0 +1,14 @@
+ex08:
+A primeira forma trata as repetições, e nessa forma que vemos a chave primária e se é nescessário criar outra tabela.
+A segunda forma é focada em redudâncias basicamente ela implica que os atributos devem ser ligados as chaves primárias 
+e caso nescessário deve ser criado uma tabela auxiliar utilizando chaves estrangeiras.
+A terceira forma trata das relações e como criamos tabelas auxiliares para registrar esses viculos.
+
+
+ex09:
+O modelo de dados tem o intuito de definir e comunicar as relações entre as entidades de um sistema.
+
+ex10:
+Banco de dados relacional e armazena os dados em tabelas estruturadas com relacionamentos entr esi exemplos de banco de dados relacionais são : Oracle, PostgresSQL,
+MySQL.Banco de dados não relacionais não armazenam a informação no esquema de tabelas e colunas podendo armazenar ela em JSON por exemplo,
+SGBS nosql: MONGODB, Redis, Cassandra.
